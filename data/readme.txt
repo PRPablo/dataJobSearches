@@ -1,0 +1,1 @@
+Agregar en esta carpeta los archivos csv, asi es convencional para nosotros.
