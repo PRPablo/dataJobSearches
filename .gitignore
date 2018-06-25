@@ -1,5 +1,9 @@
 data/
 
+prediction/seba/src
+prediction/seba/top100k.csv
+prediction/seba/src.csv
+
 *-checkpoint.ipynb
 /.vs
 /cmd.exe.lnk
